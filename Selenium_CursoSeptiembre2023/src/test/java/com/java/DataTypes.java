@@ -32,6 +32,7 @@ public class DataTypes {
 
 		// Concatenacion, Se representa con el signo +
 		System.out.println(message + symbol);
+		
 
 		int numero = 1;
 		String nombre = "Ricardo";
